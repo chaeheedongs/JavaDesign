@@ -27,3 +27,9 @@ out/
 .gradle
 /build/
 .gradletasknamecache
+
+### Custom
+.idea
+out/
+!**/src/main/**/out
+!**/src/test/**/out
